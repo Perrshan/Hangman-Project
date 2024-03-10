@@ -2,7 +2,7 @@
 
 I am trying to enhance my ability to be a multifaceted engineer by learning more coding languages. This project I used the Rust language to make a hangman game using the terminal and the cargo tool that is frequently used by Rust programmers. I love making fun games that can be played so this project was super fun to put together and I enjoy the Rust language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/P5kq6A15UE0)
 
 # Development Environment
 
